@@ -1,1 +1,10 @@
-{options:{{id: 1,name: "test"},{id: 2,name: "test2"}}}
+{
+  "options": {
+    "1": {
+      "name":"test1"
+    },
+    "2": {
+      "name":"test2"
+    }  
+  }
+}
