@@ -7,6 +7,11 @@
     {
       "name":"test2",
       "id":2
+    },
+    {
+      "name":"hello_world",
+      "id":3,
+      "url":"https://raw.githubusercontent.com/YTH-D/YTH/master/downloads/helloworld.json"
     }
   ]
 }
