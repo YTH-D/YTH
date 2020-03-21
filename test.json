@@ -12,6 +12,9 @@
       "name":"hello_world",
       "id":3,
       "url":"https://raw.githubusercontent.com/YTH-D/YTH/master/downloads/helloworld.json"
+    },
+    {
+      "name":"YTH_DOWNLOADER_END_OF_OPTIONS"
     }
   ]
 }
